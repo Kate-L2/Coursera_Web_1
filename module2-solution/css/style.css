@@ -55,4 +55,16 @@ body {
   .row__section:nth-child(3) {
     width: 100%;
   }
+  .title {
+    margin: 40px 0 20px 0;
+  }
 }
+@media (max-width: 766.98px) {
+  .row__section {
+    width: 100%;
+  }
+  .title {
+    margin: 30px 0 10px 0;
+  }
+}
+
