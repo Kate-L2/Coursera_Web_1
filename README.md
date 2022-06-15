@@ -1,2 +1,1 @@
-# Coursera_Web_1
-Coursera web course
+Here I will post all practical exercises of the course
